@@ -35,14 +35,14 @@ To run the Video Genie Streamlit app, execute the following command in the termi
 You can input a YouTube URL directly into the provided text field.
 Alternatively, you can upload a video file from your computer.
 
-##Interaction
+## Interaction
 Once the video is processed, start interacting with the AI by typing your questions into the chat interface.
 The AI will provide responses based on the content of the video.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-##Acknowledgments
+## Acknowledgments
 Thanks to the OpenAI team for providing the powerful Whisper model and GPT-3 API.
 Streamlit for enabling rapid development of data applications.
 
